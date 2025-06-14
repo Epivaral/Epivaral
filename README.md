@@ -58,7 +58,7 @@
 ---
 
 
-## Certifications
+## 📝 Certifications
 
 ![Azure AI Engineer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Engineer%20Associate-0078D4?logo=microsoftazure&logoColor=white)
 ![AWS Data Engineer Associate](https://img.shields.io/badge/AWS%20Certified-Data%20Engineer%20Associate-232F3E?logo=amazonaws&logoColor=white)
