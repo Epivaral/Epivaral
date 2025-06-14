@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/banner.png" alt="Eduardo Pivaral Banner" style="width:100%;"/>
+<img src="banner.png" alt="Eduardo Pivaral Banner" style="width:100%;"/>
 
 <h1 align="center">Hi, I'm Eduardo Pivaral 👋</h1>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 20+ years of global IT experience
 - 🏗️ Cloud-native solutions with Azure, AWS & Snowflake
-- 🛠️ Terraform, Python, SQL, GitHub Actions, AI integration
+- 🛠️ Data engineering, Python, SQL, GitHub Actions, AI integration
 - 📚 Speaker & author at [MSSQLTips](https://www.mssqltips.com/sqlserverauthor/233/eduardo-pivaral/), [SQLServerCentral](https://www.sqlservercentral.com/), [Studyyourdata](https://www.studyyourdata.com/)
 
 - 🌐 Creator of [ClimaGuate.com](https://www.climaguate.com)
