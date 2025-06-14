@@ -8,7 +8,17 @@
   🔧 Automating | 📊 Optimizing | 🎓 Sharing Knowledge
 </p>
 
+
+
+
+## Featured repo
+
+[Built 100% with GenAI: No-Code Full Stack App](https://github.com/Epivaral/DemoAppGenAI)
+
+This project showcases a full-stack web app built entirely with GenAI tools—no manual coding involved.
+
 ---
+
 
 ## 🌎 About Me
 
