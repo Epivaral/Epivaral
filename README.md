@@ -14,6 +14,7 @@
 ## Featured repos
 
 [Task Agent Chatbox](https://github.com/Epivaral/AI-AgentDemo)
+
 A full-stack AI-powered to-do/chat agent web app using React, Azure Static Web Apps, Azure Functions (Python), Azure OpenAI (Assistants API), and Azure Data API Builder (DAB) with a SQL-backed Tasks table.
 
 [Built 100% with GenAI: No-Code Full Stack App](https://github.com/Epivaral/DemoAppGenAI)
