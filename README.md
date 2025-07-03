@@ -59,7 +59,7 @@ This project showcases a full-stack web app built entirely with GenAI tools—no
 ## 📢 Latest Activity
 
 - 🎤 Speaker at **Tech Community Day 2025**, Guatemala City
-- 📝 Latest article: [Advanced Features of DAB (Data API Builder)](https://www.mssqltips.com/sqlservertip/8030/dab-advanced-features-build-rest-api/)
+- 📝 Latest article: [SQL Server Semantic Search using New AI Features](https://www.mssqltips.com/sqlservertip/8285/sql-server-semantic-search-using-ai-features/)
 - 🔍 Experimenting with AI search, and GenAI tooling
 
 ---
