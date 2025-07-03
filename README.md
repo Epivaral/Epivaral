@@ -1,6 +1,4 @@
-<div align="center">
-<img src="banner.png" alt="Eduardo Pivaral Banner" width="40%"/>
-</div>
+
 <h1 align="center">Hi, I'm Eduardo Pivaral 👋</h1>
 
 <p align="center">
