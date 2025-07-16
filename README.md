@@ -68,7 +68,7 @@
 
 ## 📫 Connect With Me
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-Eduardo_Pivaral-blue?style=social&labelColor=blue&color=blue)](www.linkedin.com/in/eduardo-pivaral)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Eduardo_Pivaral-blue?style=social&labelColor=blue&color=blue)](https://www.linkedin.com/in/eduardo-pivaral)
 
 
 ---
