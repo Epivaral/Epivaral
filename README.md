@@ -14,11 +14,9 @@
 
 [![Static Badge](https://img.shields.io/badge/Task-Agent_Chatbox-Blue?style=plastic)](https://github.com/Epivaral/AI-AgentDemo) - A full-stack AI-powered to-do/chat agent web app using React, Azure Static Web Apps, Azure Functions (Python), Azure OpenAI (Assistants API), and Azure Data API Builder (DAB) with a SQL-backed Tasks table.
 
-[![Static Badge](https://img.shields.io/badge/Built%20100%25%20with%20GenAI%3A-No%20Code%20Full%20Stack%20App-blue?style=plastic&color=blue)
-](https://github.com/Epivaral/DemoAppGenAI) - This project showcases a full-stack web app built entirely with GenAI tools—no manual coding involved.
+[![Static Badge](https://img.shields.io/badge/Built%20100%25%20with%20GenAI%3A-No%20Code%20Full%20Stack%20App-blue?style=plastic&color=blue)](https://github.com/Epivaral/DemoAppGenAI) - This project showcases a full-stack web app built entirely with GenAI tools—no manual coding involved.
 
-[![Static Badge](https://img.shields.io/badge/What%20Remains-in%20Shadow-orange?style=plastic&color=yellow)
-](https://github.com/Epivaral/FantasyMaze) - A fantasy maze adventure game built with React, TypeScript, and Vite, it is loosely based on RPG soulsborne style.
+[![Static Badge](https://img.shields.io/badge/What%20Remains-in%20Shadow-orange?style=plastic&color=yellow)](https://github.com/Epivaral/FantasyMaze) - A fantasy maze adventure game built with React, TypeScript, and Vite, it is loosely based on RPG soulsborne style.
 
 [![Static Badge](https://img.shields.io/badge/Hunt-The%20Wumpus-orange?style=plastic&labelColor=purple&color=red)](https://github.com/Epivaral/HuntTheWumpus) - My personal view on the classic game, played by an agent that uses a depth-first search (DFS) or A* algorithm to explore the cave
 
@@ -70,7 +68,7 @@
 
 ## 📫 Connect With Me
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-Eduardo_Pivaral-blue?style=social&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feduardo-pivaral%2F)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Eduardo_Pivaral-blue?style=social&labelColor=blue&color=blue)](www.linkedin.com/in/eduardo-pivaral)
 
 
 ---
