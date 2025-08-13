@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Eduardo Pivaral 👋</h1>
 
 <p align="center">
-  💡 DataOps Engineer | ☁️ Cloud Architect | 🇬🇹 Tech Community Leader <br/>
+  💡 DataOps Engineer | ☁️ Cloud Architect | 🇬🇹 Tech Community member <br/>
   🔧 Automating | 📊 Optimizing | 🎓 Sharing Knowledge
 </p>
 
