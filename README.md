@@ -61,7 +61,7 @@
 ## 📢 Latest Activity
 
 - 🎤 Speaker at **Tech Community Day 2025**, Guatemala City
-- 📝 Latest article: [SQL Server Semantic Search using New AI Features](https://www.mssqltips.com/sqlservertip/8285/sql-server-semantic-search-using-ai-features/)
+- 📝 Latest article: [AI Image Generator with Azure OpenAI and SQL Server](https://www.mssqltips.com/sqlservertip/11485/ai-image-generator-with-azure-openai-and-sql-server/)
 - 🔍 Experimenting with AI search, and GenAI tooling
 
 ---
